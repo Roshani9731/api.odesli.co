@@ -1,6 +1,1 @@
-api.odesli.co.          413     IN      CNAME   j.sni.global.fastly.net.
-j.sni.global.fastly.net. 29     IN      A       151.101.154.132
-fastly.net.             2935    IN      NS      ns1.fastly.net.
-fastly.net.             2935    IN      NS      ns2.fastly.net.
-fastly.net.             2935    IN      NS      ns3.fastly.net.
-fastly.net.             2935    IN      NS      ns4.fastly.net.
+j.sni.global.fastly.net
